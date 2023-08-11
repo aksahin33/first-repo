@@ -4,4 +4,6 @@ public class First {
         System.out.println("ikinci deneme");
     }
 
+
 }
+
